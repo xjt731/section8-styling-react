@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app",
+  "name": "boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Andrew Mead",
@@ -23,7 +23,7 @@
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-modal": "2.2.2",
-    "sass-loader": "6.0.6",
+    "sass-loader": "6.0.6",       
     "style-loader": "0.18.2",
     "validator": "8.0.0",
     "webpack": "3.1.0",
